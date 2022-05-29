@@ -24,6 +24,8 @@ import about03 from '../assets/about03.png';
 import about04 from '../assets/about04.png';
 
 import profile from '../assets/profile.png';
+import my_pic from '../assets/my_pic.png'
+import my_pic2 from '../assets/my_pic_2.png'
 import circle from '../assets/circle.svg';
 import logo from '../assets/logo.png';
 
@@ -69,4 +71,6 @@ export default {
   nb,
   skype,
   spotify,
+  my_pic,
+  my_pic2
 };
